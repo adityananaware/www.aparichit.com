@@ -16,7 +16,7 @@ It showcases profound stories of life, karma, and justice.
 - **Presence of Aparichit**: A mysterious force that confronts sinners.
 
 
-![Yamlok](Images/Yamlok.jpg)
+![Yamlok](Images/Hell.jpg)
 
 ## Purpose
 
